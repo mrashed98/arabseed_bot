@@ -1,0 +1,14 @@
+{
+  "chrome": {
+    "headless": "--headless",
+    "ignore-ssl": "--ignore-ssl-errors=yes",
+    "ignore-certificate": "--ignore-certificate-errors",
+    "disable-shm": "--disable-dev-shm-usage",
+    "start-maximized": "--start-maximized",
+    "sandbox": "--no-sandbox"
+  },
+  "firefox": {
+    "headless": "--headless",
+    "start-maximized": "--start-maximized"
+  }
+}

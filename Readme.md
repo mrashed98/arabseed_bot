@@ -4,9 +4,9 @@ This bot is made for simplifying downloading content from Arabseed website and s
 
 It also works with various browsers
 
-- Chrome
+- [X] Chrome
 - Chromium
-- Firefox
+- [X] Firefox
 - Opera
 - Brave
 
@@ -16,7 +16,7 @@ It also works with various browsers
 - [ ] Download a range, specific episodes 
 - [ ] Get movies direct download link
 - [ ] Track Downloaded episodes for already downloaded Series
-
+- [ ] Get the latest uploaded content
 
 ## Tools used in this project
 

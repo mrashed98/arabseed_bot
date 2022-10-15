@@ -1,5 +1,3 @@
 selenium
-bs4
-requests
 selenium-page-factory
 webdriver-manager
